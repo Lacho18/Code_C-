@@ -1,0 +1,4 @@
+﻿  Algoritmi_za_Tursene.cpp
+C:\Users\user\Desktop\CodeC++\List\Algoritmi_za_Tursene\Algoritmi_za_Tursene.cpp(106): warning C4715: 'TurseneSusStupka': not all control paths return a value
+C:\Users\user\Desktop\CodeC++\List\Algoritmi_za_Tursene\Algoritmi_za_Tursene.cpp(125): warning C4715: 'DvoichnoTursene': not all control paths return a value
+  Algoritmi_za_Tursene.vcxproj -> C:\Users\user\Desktop\CodeC++\List\x64\Debug\Algoritmi_za_Tursene.exe

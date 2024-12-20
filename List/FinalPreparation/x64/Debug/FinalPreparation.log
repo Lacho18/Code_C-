@@ -1,0 +1,4 @@
+﻿  FinalPreparation.cpp
+C:\Users\user\Desktop\CodeC++\List\FinalPreparation\FinalPreparation.cpp(185): warning C4715: 'Remove_last': not all control paths return a value
+C:\Users\user\Desktop\CodeC++\List\FinalPreparation\FinalPreparation.cpp(364): warning C4715: 'Dvoichno_tursene': not all control paths return a value
+  FinalPreparation.vcxproj -> C:\Users\user\Desktop\CodeC++\List\x64\Debug\FinalPreparation.exe
