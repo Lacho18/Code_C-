@@ -1,0 +1,5 @@
+﻿  FunctionPointers.cpp
+C:\Users\user\Desktop\CodeC++\Project\FunctionPointers\FunctionPointers.cpp(33,5): error C2664: 'void ForEach(std::array<int,7>,void (__cdecl *)(int))': cannot convert argument 2 from 'main::<lambda_e6c78786f49a59ad562dce167e3a2fbe>' to 'void (__cdecl *)(int)'
+C:\Users\user\Desktop\CodeC++\Project\FunctionPointers\FunctionPointers.cpp(34,24): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\user\Desktop\CodeC++\Project\FunctionPointers\FunctionPointers.cpp(17,6): message : see declaration of 'ForEach'
+C:\Users\user\Desktop\CodeC++\Project\FunctionPointers\FunctionPointers.cpp(35,1): error C2143: syntax error: missing ';' before '}'
