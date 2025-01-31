@@ -1,0 +1,71 @@
+﻿  Spisucy.cpp
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(2,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(2,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(2,17): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(3,5): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(3,17): error C2061: syntax error: identifier 'Spisuc'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(4,5): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(5,5): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(5,19): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(9,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(9,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(9,17): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(10,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(10,13): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(11,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(11,13): error C2061: syntax error: identifier 'Spisuc'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(12,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(13,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(14,12): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(15,9): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(15,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(17,5): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(17,15): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(21,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(21,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(21,17): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(22,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(22,13): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(23,12): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(24,9): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(24,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(26,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(26,13): error C2061: syntax error: identifier 'Spisuc'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(27,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(27,15): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(28,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(28,16): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(29,5): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(29,15): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(30,5): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(35,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(35,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(35,17): error C2065: 'start': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(36,5): error C2065: 'Spisuc': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(36,13): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(37,12): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(38,9): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(38,13): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(40,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(40,13): error C2061: syntax error: identifier 'Spisuc'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(41,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(41,15): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(42,5): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(42,16): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(43,5): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(43,15): error C2065: 'q': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(44,5): error C2065: 'p': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(9,6): error C2084: function 'void Add(int)' already has a body
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(1): message : see previous definition of 'Add'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(16,6): error C2084: function 'void AddBack(int)' already has a body
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(8): message : see previous definition of 'AddBack'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(28,6): error C2084: function 'void AddBefore(int,int)' already has a body
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(20): message : see previous definition of 'AddBefore'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(42,6): error C2084: function 'void AddAfter(int,int)' already has a body
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\AddFunctions.cpp(34): message : see previous definition of 'AddAfter'
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(110,5): error C2065: 'Add': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(111,5): error C2065: 'Add': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(112,5): error C2065: 'Add': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(113,5): error C2065: 'Add': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(114,5): error C2065: 'AddBack': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Spisucy\Spisucy.cpp(115,5): error C2065: 'AddBefore': undeclared identifier

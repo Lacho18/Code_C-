@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Threads.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Threads.cpp
+C:\Users\user\Desktop\CodeC++\Project\Threads\Threads.cpp(71,47): error C2065: 'd': undeclared identifier
+C:\Users\user\Desktop\CodeC++\Project\Threads\Threads.cpp(72,5): error C2146: syntax error: missing ';' before identifier 'Log'
